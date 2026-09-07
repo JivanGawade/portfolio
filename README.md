@@ -32,4 +32,4 @@ Cognitive Services.
 • Configured and optimized Cloud Virtual Machines and Storage solutions to handle data
 intensive workloads. 
 • Gained hands-on experience in cloud security and identity management within the 
-Azure ecosystem.
+Azure ecosystem.  
